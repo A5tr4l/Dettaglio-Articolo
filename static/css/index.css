@@ -1,0 +1,30 @@
+.title{
+    font-size: 41px;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+    padding-top: 40px;
+    text-align: left;
+}
+
+.imag{
+    margin-top: 40px;
+}
+
+.text{
+    font-family: 'Overpass Mono';
+    margin-top: 40px;
+    text-align: left;
+    font-size: 18px;
+}
+
+.firma{
+    font-family: 'Overpass Mono';
+    margin-top: 20px;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold
+}
+
+.a{
+    background-color: #fffee8;
+}
